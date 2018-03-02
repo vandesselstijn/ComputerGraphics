@@ -1,4 +1,4 @@
-#opgave1
+# Opgave1
 
 Er is weer eens een enquete afgenomen bij de studenten. Hierbij werd naar het
 tijdsgebruik van studenten geinformeerd. Hoeveel uren per week de student
